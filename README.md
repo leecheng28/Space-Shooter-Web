@@ -7,7 +7,7 @@
 
 W, A, S, D - forward, left, backword, right.
 
-Right click - to shoot bolts
+Right click - to shoot bolts.
 
 ENJOY :laughing:
 
